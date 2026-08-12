@@ -1,0 +1,19 @@
+/.vscode
+/bin
+
+# Java compiled files
+/build/
+
+# Tomcat generated files
+/logs/
+/temp/
+/work/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
